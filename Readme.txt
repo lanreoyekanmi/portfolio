@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+#OLANREWAJU OYEKANMI PORTFOLIO
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to my portfolio! Here, you'll find a collection of my projects, skills, and experiences as a web developer. I am passionate about creating beautiful, responsive, and user-friendly websites and web applications. From front-end design to graphic design and lot more, I enjoy crafting digital experiences that leave a lasting impression.
+
+
