@@ -18,8 +18,8 @@ $contact->subject = $_POST['subject'];
 
 $contact->smtp = array(
   'host' => 'smtp.gmail.com',
-  'username' => 'lanrewajuoyekanmi@gmail.com',
-  'password' => 'Hybrid241$',
+  'username' => 'your_email@gmail.com',
+  'password' => 'your_password',
   'port' => '587'
 );
 
