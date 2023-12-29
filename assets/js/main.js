@@ -224,34 +224,4 @@
    */
   new PureCounter();
 
-});
-
-/**
-   * Form submit 
-   
-
-const form = document.getElementById('contact-form');
-
-form.addEventListener('submit', (e) => {
-  e.preventDefault();
-  
-  // Our submit logic
-});
-
-
-const data = new FormData(form);
-const values = Object.fromEntries(data.entries());
-
-// values will contain all fields
-
-const body = `Name: ${values.name} 
-              Email: ${values.email} 
-              Message: ${values.message}`;
-
-              
-
-              fetch('https://api.formspree.io/submit/', {
-  method: 'POST',
-  body: JSON.stringify({message: body})  
-})
-*/
+})()
